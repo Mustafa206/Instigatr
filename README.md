@@ -50,6 +50,6 @@ Debate app
 
   (2) Soren:
       There were definitely some dificulties with coordinating the team efforts. Technology-wise there weren't a whole lot of hurdles that I personally encountered. The biggest thing was the troubles with Git and Git-hub that Kyle and Mustafa had. The most complicated part was the relationships between all our different models, and making sure the correct ones were included on the correct pages.
-
-
+    (3) Mustafa : 
+        Biggest problems I faced was with GitHub. Whenever I pulled I would get day old code, and when I would merge there was always conflicts and just created setbacks. Another issue I ran into was trying to use BootStrap while we were using  UI libary called INK. It was a great thing that I got to use INK, because it helped me to broaden my front end skills more using INK UI.
 
